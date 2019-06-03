@@ -1,0 +1,17 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+#input-area {
+    width: 60%;
+    float: left;
+    margin: 0;
+}
+
+.container {
+    padding: 30px;
+}
+
+#submit {
+    clear: both;
+}

@@ -15,6 +15,7 @@ $( document ).ready(function() {
         }
     }
     displayButtons();
+    createButtons();
 
     // When the user clicks on a button, the page should grab 10 static, non-animated gif images from the GIPHY API and place them on the page.
     function createButtons() {
@@ -97,10 +98,6 @@ $( document ).ready(function() {
         createButtons();
 
    }) 
-
-
-
-
 
 })
  

@@ -1,5 +1,7 @@
 body {
     font-family: 'Oswald', sans-serif;
+    background-image: url(background2.jpg);
+    background-size: cover;
 }
 
 #input-area {
@@ -10,8 +12,24 @@ body {
 
 .container {
     padding: 30px;
+    margin-top: 20px;
+
+
 }
 
 #submit {
     clear: both;
+}
+
+h2 {
+    text-shadow: black 2px 2px;
+    color: white
+}
+
+p {
+    color: white;
+}
+
+img {
+    border: 5px solid white;
 }

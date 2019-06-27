@@ -5,4 +5,4 @@ Click on a button to see gifs of the subject or add your own adventure. Click on
 
 https://conniepope.github.io/giphy/
 
-![image](https://user-images.githubusercontent.com/47279070/59930022-fa85be00-940f-11e9-8d41-12921716dc3e.png)
+![image](https://user-images.githubusercontent.com/47279070/60227904-fcf87580-985e-11e9-965d-0752c9e76ca2.png)

@@ -21,13 +21,13 @@ body {
 }
 
 h1 {
-    text-shadow: black 2px 2px;
+    text-shadow: 2px 2px 2px black; 
     color: white
 }
 
 h5 {
     color: white;
-    text-shadow: black 2px 2px;
+    text-shadow: 2px 2px 2px black; 
 }
 
 p {
